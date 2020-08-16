@@ -15,5 +15,5 @@ game_hash = {
 		:slam_dunks => 1}
 		]  }  }
 		
-
+end
 

@@ -80,7 +80,7 @@ game_hash = {
 		:blocks => 15,
 		:slam_dunks => 10},
 
-		{:player_name => "Desagna Diop",
+		{:player_name => "DeSagna Diop",
 		:number => 2,
 		:shoe => 14,
 		:points => 24,
@@ -100,8 +100,7 @@ game_hash = {
 		:blocks => 1,
 		:slam_dunks => 0},
 
-		{
-		:player_name => "Kemba Walker",
+		{:player_name => "Kemba Walker",
 		:number => 33,
 		:shoe => 15,
 		:points => 6,

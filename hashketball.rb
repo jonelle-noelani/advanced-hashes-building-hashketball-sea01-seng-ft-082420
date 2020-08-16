@@ -1,4 +1,5 @@
 def game_hash
+  game_hash = {
 :home => { 
 	:team_name => “Brooklyn Nets”,
 	:colors => [“Black”, “White”],
@@ -108,6 +109,6 @@ def game_hash
 		:blocks => 5,
 		:slam_dunks => 12}
 
-		]  }
+		]  }  }
 
 end
